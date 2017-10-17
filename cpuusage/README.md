@@ -1,8 +1,8 @@
-##Installation
+## Installation
 define emails inside emails.txt 
 define external smtp information inside cpustatus.sh 
 
-##Crontab
+## Crontab
 `crontab -e`
  
 
